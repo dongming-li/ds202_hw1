@@ -18,11 +18,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * What did the Owner do in the most recent commit? What is the commit ID?
 
-  + Owner pushed hw1.Rmd and hw1.html to repo with message "First commit message for Lab 1"
-  + Commit ID: 5732619099c44d95479b044ef7570c6362e8f9d8
+  + Owner added hw1.Rmd with message "picture path change for hw1"
+  + Commit ID: dbafecd5a9f0a972ad32762049c29ce5877b2d37
 
 * Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
-  + hw1.Rmd can be knitted succesfully without error.
+  + There was some issue in knitting because of no image.
+  + hw1.Rmd can be knitted succesfully without error after partner added image.
 
 * Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
   + Always create a ReadMe in every repo/project.
