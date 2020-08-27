@@ -12,18 +12,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Lab 1 Part II: Collaborating on a Repository
 
 
-* Your (the Partner’s) full name and GitHub username.
-  + Full Name: Dongming Li
-  + Username: dongming-li
+1. Your (the Partner’s) full name and GitHub username.
+  - Full Name: Muhamad Imran Bin Maszeri
+  - Username: imrnmzri
 
-* What did the Owner do in the most recent commit? What is the commit ID?
+2. What did the Owner do in the most recent commit? What is the commit ID?
 
-  + Owner added hw1.Rmd with message "picture path change for hw1"
-  + Commit ID: dbafecd5a9f0a972ad32762049c29ce5877b2d37
+  - Owner added hw1.Rmd with message "picture path change for hw1"
+  - Commit ID: dbafecd5a9f0a972ad32762049c29ce5877b2d37
 
-* Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
-  + There was some issue in knitting because of no image.
-  + hw1.Rmd can be knitted succesfully without error after partner added image.
+3. Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+  - There was some issue in knitting because of no image.
+  - hw1.Rmd can be knitted succesfully without error after Owner added image.
 
-* Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
-  + Always create a ReadMe in every repo/project.
+4. Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+  - Always create a ReadMe in every repo/project.
