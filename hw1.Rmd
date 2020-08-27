@@ -32,7 +32,7 @@ As a pre-requisite of this homework, first install R, and then the RStudio (the 
 4. Write a paragraph describing a job that you think is related to data science. Include a hyperlink and an image. Make sure your answer is in a nice format to read. 
 
     Answer: I think [Market analyst](https://neuvoo.ca/neuvooPedia/en/marketing-analyst/) is a job that related to        data science.Because market analysis requires the collection and analysis of a large number of market data, which     requires the knowledge of data science.
-    ![Market Analyst](\Users\dongm\Pictures\Market Analyst.jpeg)
+    ![Market Analyst](\Users\dongm\Desktop\ds202_hw1\Market Analyst.jpeg)
   
 5. What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
 
